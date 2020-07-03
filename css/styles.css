@@ -1,0 +1,131 @@
+
+.style{
+    text-align: center;
+    /* background-color: rgb(192, 181, 168);
+    padding: 50px; */
+    font-weight: 500px;
+    font-style: italic;
+    background-color: transparent;
+    font-size: xx-large;
+    margin: 0px;
+    /* padding: 30px; */
+    font-family: cursive;
+}
+
+body{
+    text-align: justify;
+    margin-bottom: 60px;
+    background-image: url(../images/thumbnails/backgroud.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; 
+
+    
+}
+/* .footer{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color:transparent;
+
+} */
+.shape{
+    height: 300px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border: solid 2px black;
+    
+    
+
+}
+.r{
+    color: blue;
+    font-style: italic;
+
+}
+.fix{
+    width: 100%;
+      
+}
+.fit{
+    height: 200px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.back{
+    background-image: url(../images/thumbnails/cactusspecial2.jpg);
+    padding: 70px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; 
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.fine{
+    text-align: center;
+}
+
+
+.carousel-item > img {
+    height: 300px;
+    object-fit: fill;
+        
+}
+.carousel-inner{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.width-100-pc {
+    width: 100%;
+    text-align: center;
+}
+
+.primary{
+    background-color:black;
+    text-align: center;
+    color: white;
+    text-align: justify;
+    background-size: cover;
+    left: 0;
+    bottom: 0;
+   
+    
+}
+.list{
+    list-style-type: none;
+}
+.cards{
+    font-size: 30px;
+    background-color: blue;
+    margin-right: auto;
+    margin-left: auto;
+}
+.shopping-cart{
+   font-size: 30px;
+}
+
+.right{
+    background-color: black;
+    color: white;
+    
+}
+.bar{
+    text-align: left;
+}
+.yes{
+    color: black;
+}
+.em{
+    text-align: center;
+}
+/* .height{
+    height: 300px;
+} */
